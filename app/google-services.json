@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858382484521",
+    "project_id": "authentification-e6caf",
+    "storage_bucket": "authentification-e6caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858382484521:android:f662a349384000b0144838",
+        "android_client_info": {
+          "package_name": "com.striyank.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858382484521-qhlo90kl8lilev0525unckge2isbfj42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.striyank.authentification",
+            "certificate_hash": "8e79315b7f75ae3a728a5982e827085f0ea15413"
+          }
+        },
+        {
+          "client_id": "858382484521-2gd4ce1v9galibarlkbfdg2054vcp72n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9cMtV6d79B0ay8CG9Lzubpvst6kJvO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858382484521-2gd4ce1v9galibarlkbfdg2054vcp72n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
